@@ -1,0 +1,11 @@
+Bilbo,I loved the book!
+Pippi Långstrump,I hated the book!
+Bilbo,I loved the book.
+Pippi Långstrump,I hated the book.
+Pippi Långstrump,The book was okay.
+Bilbo,The book was pretty good.
+
+Knife1,This product was better than I expected!
+Knife2,The knife was dull and looked ugly. Do not recommend - stay away!
+Knife1,Stylish and easy to use. Buy it!
+Knife2,Joke of a knife. Doesn't even cut through a tomato.
