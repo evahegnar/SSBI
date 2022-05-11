@@ -1,0 +1,4 @@
+Små uppgifter lektionen:
+1. Skapa en merge av DIM-region med codes för att få in region kolumnen i DIM-region.
+ Passa på namn av kolumner är samma i båda tabeller, samma datatyp och använda rätt join
+2. Skapa DIM-gender med kolumnerna gender-id och gender
