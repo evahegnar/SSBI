@@ -1,0 +1,23 @@
+County	Total Customer count at year end 2011				
+Limerick	29872				
+Meath	28652				
+Tipperary	19574				
+Donegal	20151				
+Kerry	19763				
+Wexford	18247				
+Mayo	12354				
+Wicklow	19532				
+Louth	14231				
+Clare	9875				
+Waterford	11235				
+Kilkenny	8756				
+Westmeath	5789				
+Laoighis	6897				
+Offaly	4568				
+Cavan	5689				
+Sligo	6548				
+Roscommon	2211				
+Monaghan	5689				
+Carlow	5647				
+Longford	2564				
+Leitrim	1257				
