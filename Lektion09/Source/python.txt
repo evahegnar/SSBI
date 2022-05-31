@@ -1,0 +1,10 @@
+import pandas as pd
+df = pd.DataFrame({
+'First_name':['Vijay','Eri','Dawn','Abhinav','Alok','Shambhavi','Vipu'],
+'Age':[21,34,42,18,24,80,22],
+'Weight': [180, 130, 200, 140, 176, 142, 210],
+'Gender':['M','F','F','M','M','F','M'],
+'State':['Delhi','Oregon','California','Delhi','Banarash','Delhi','Mumbai'],
+'Children':[4,1,2,3,10,0,4],
+'Pets':[3,2,2,5,0,1,5]
+})
